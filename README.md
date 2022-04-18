@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough for the application features:
-[![Watch the video](https://github.com/Akash1Asu/DictionaryAppAkash/blob/master/ScreenShot.jpg)](https://drive.google.com/file/d/1BcxDyhy6zccdCcM7hRAVFov_2XQom1qp/view?usp=sharing)
+[![Watch the video](https://github.com/Akash1Asu/DictionaryAppAkash/blob/master/ScreenShot.PNG)](https://drive.google.com/file/d/1BcxDyhy6zccdCcM7hRAVFov_2XQom1qp/view?usp=sharing)
 
 
 ## License
