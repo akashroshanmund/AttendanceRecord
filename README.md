@@ -1,6 +1,4 @@
 # AttendanceRecord
-# DictionaryAppAkash
-
 
 AttendanceRecord is an Java application that allows user to keep track of class attendance
 
