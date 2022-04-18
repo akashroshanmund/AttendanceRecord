@@ -3,8 +3,8 @@
 
 
 AttendanceRecord is an Java application that allows user to keep track of class attendance
-
-Time spent: **15** hours spent in total. 
+Created By: It was developed as a group project by a team of 5 members
+Time spent: **23** hours spent in total. 
 
 ## User Stories
 
